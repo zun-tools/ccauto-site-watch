@@ -24,7 +24,7 @@ Claude Code のルーチンで、好きなサイトの更新を見張るため�
 1. [claude.ai/code](https://claude.ai/code) を開き、入力欄の上にある雲のアイコン（環境の名前）を選ぶ
 2. **Cloud** の一覧で、ルーチンが使う環境にカーソルを合わせ、右に出る設定アイコンを選ぶ（新しく作るなら **Add cloud environment**）
 3. **Network access** を **Custom** にし、**Allowed domains** に見張りたいドメインを1行に1つ書く（例: `example.com`）
-4. 既定の許可も残したいときは **Also include default** の欄にチェックを入れて保存する
+4. 既定の許可も残したいときは **Also include default list of common package managers** にチェックを入れて保存する
 
 ルーチンがどの環境を使うかは、ルーチンの編集画面で選べます。
 
